@@ -9,7 +9,6 @@ My GitHub page is http://github.com/alegarcia4.
 ### CPSC 120
 
 * Hi-Lo Game (Lab 4, Part-2)
-    
     * This lab was one of my favorites because I learned how to use If statements and If-else statements. I also mastered taking in user input. I also liked the game itself and it reminds me of games I have seen before.
     * [Hi-Lo Game](https://github.com/cpsc-fall-2023/cpsc-120-lab-04-winston-and-alessandro.git)
 * Blackjack Game (Lab 6, Part-2)
