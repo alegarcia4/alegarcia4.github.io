@@ -4,7 +4,7 @@ This is my home page! My name is Alessandro Garcia and I am a student at [Cal St
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/alegarcia4.
+My GitHub page is [alegarcia4] (http://github.com/alegarcia4).
 
 ### CPSC 120
 
